@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <span>Video brought to you by Coding with Chaim</span>
       </header>
     </div>
   );
